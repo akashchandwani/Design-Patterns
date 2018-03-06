@@ -5,6 +5,8 @@
 
 ### Strategy Pattern
 
+The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
 **1. Identify the aspects of your application that vary and seprate them from what stays the same.**
 
 Removing quack() and fly() methods from Duck class, because these are customizable
