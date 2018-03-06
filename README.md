@@ -1,8 +1,9 @@
 # Design-Patterns
 
 
-### DESIGN PRINCIPLES
-#### Composition
+## DESIGN PRINCIPLES
+
+### Strategy Pattern
 
 **1. Identify the aspects of your application that vary and seprate them from what stays the same.**
 

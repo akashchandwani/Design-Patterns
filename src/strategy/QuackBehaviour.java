@@ -1,4 +1,4 @@
-package introduction;
+package strategy;
 
 public interface QuackBehaviour {
 
